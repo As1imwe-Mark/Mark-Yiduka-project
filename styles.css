@@ -1,0 +1,11 @@
+@media screen and (min-width: 500px) {
+    #nav-bar {
+      width: 200px;
+    }
+  }
+  #nav-bar {
+    position: top;
+  }
+  #header {
+    display: flex;
+  }
